@@ -96,7 +96,7 @@ public class DeckLegalityPanel extends javax.swing.JPanel {
                 // most popular
                 new Standard(), new Pioneer(), new Modern(), new Legacy(), new Vintage(), new Pauper(), new Historic(),
                 // common
-                new Commander(), new Oathbreaker(), new Brawl(),
+                new Commander(), new CasualCommander(), new Oathbreaker(), new Brawl(),
                 // other
                 new Frontier(), new HistoricalType2(), new PennyDreadfulCommander(), new EuropeanHighlander(), new CanadianHighlander()
                 // not used: new Eternal(), new Momir(), new TinyLeaders()
